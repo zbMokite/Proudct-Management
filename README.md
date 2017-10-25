@@ -5,4 +5,14 @@ Express+MongoDb 商品管理系统
 
 ### 界面设计
 - 管理员登录界面
-  
+  ![image](https://github.com/zbMokite/Proudct-Management/blob/master/img/%E7%99%BB%E5%BD%95.png)
+----------
+- 管理员商品列表界面
+  ![image](https://github.com/zbMokite/Proudct-Management/blob/master/img/%E5%95%86%E5%93%81%E7%95%8C%E9%9D%A2.png)
+----------
+- 管理员商品增加界面
+  ![image](https://github.com/zbMokite/Proudct-Management/blob/master/img/%E6%96%B0%E5%A2%9E%E5%95%86%E5%93%81%E7%95%8C%E9%9D%A2.png)
+----------
+- 管理员商品修改界面
+  ![image](https://github.com/zbMokite/Proudct-Management/blob/master/img/%E4%BF%AE%E6%94%B9%E5%95%86%E5%93%81%E7%95%8C%E9%9D%A2.png)
+----------
